@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 **Desenvolvedor Full-Stack** em formação<br>🎓 Cursando **Desenvolvimento de Software** pelo **IMD-UFRN** <br>📚 Evoluindo em **Java, Spring Boot, PostgreSQL, TypeScript, Angular, entre outros**<br>📍 Natal, RN – Brasil</p>
+<p align="left">💻 <b>Desenvolvedor Full-Stack</b> em formação<br>🎓 Cursando <b>Desenvolvimento de Software</b> pelo <b>IMD-UFRN</b> <br>📚 Evoluindo em <b>Java, Spring Boot, PostgreSQL, TypeScript, Angular, entre outros<b><br>📍 Natal, RN – Brasil</p>
 
 ###
 
@@ -40,8 +40,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/eriksmedeiros" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:eriksilvademedeiros@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
